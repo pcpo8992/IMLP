@@ -19,3 +19,7 @@ Unit03_<br>
 
 Unit04_<br>
 [Linear Regression_HW](https://github.com/pcpo8992/IMLP350/blob/main/Unit04/Linear%20Regression_HW.ipynb)<br>
+
+
+Unit05_<br>
+[Logistic regression_HW](https://github.com/pcpo8992/IMLP350/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)<br>
